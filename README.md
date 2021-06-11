@@ -1,15 +1,15 @@
 # Hi there 👋. This is Blue
 
 <!--
-**BlueGamesplayer/BlueGamesplayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Jimmy-Blue/Jimmy-Blue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 - 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning `Nothing`
 - 👯 I’m looking to collaborate with Mikey, a.k.a [Isigebengu-mikey](https://github.com/isigebengu-mikey)
 - 🤔 I’m looking for help for my death
-- 📫 How to reach me: DM me on Discord at: [BlueGamesplayer#4773](https://discord.com/channels/738937306224001157)
-- ⚡ Fun fact: I'm just a really boring guy. Yeah, that's all about me. I just want to end this life
+- 📫 How to reach me: DM me on Discord at: [JimmyBlue#4773](https://discord.com/channels/738937306224001157)
+- ⚡ Fun fact: I'm just a really boring guy. Yeah, that's all about me. Also, I'm a Pokemon enjoyer, so enjoj
 
 # What I like:
 - Playing with malware
