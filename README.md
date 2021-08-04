@@ -5,9 +5,8 @@
 -->
 
 - 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning `Nothing`
-- 👯 I’m looking to collaborate with Mikey, a.k.a [Isigebengu-mikey](https://github.com/isigebengu-mikey)
-- 🤔 I’m looking for help for my death
+- 🌱 I’m currently learning `Python and HTML`
+- 👯 I’m looking to collaborate with Matteo, a.k.a [matteodev8](https://github.com/matteodev8)
 - 📫 How to reach me: DM me on Discord at: [JimmyBlue#4773](https://discord.com/channels/738937306224001157)
 - ⚡ Fun fact: I'm just a really boring guy. Yeah, that's all about me. Also, I'm a Pokemon enjoyer, so enjoj
 
