@@ -14,5 +14,5 @@
 - Playing with malware
 - Do a lot of stupid thing
 
-![Blue's github stats](https://github-readme-stats.vercel.app/api?username=Jimmy-Blue&count_private=true&theme=dark&show_icons=true)\
+![Blue's github stats](https://github-readme-stats.vercel.app/api?username=jimmy-blue&theme=react&show_icons=true)\
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimmy-Blue&count_private=true&theme=dark)
