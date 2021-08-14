@@ -17,8 +17,5 @@
 ![Blue's github stats](https://github-readme-stats.vercel.app/api?username=jimmy-blue&theme=react&show_icons=true)\
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimmy-Blue&theme=react)
 
-# My main project:
-![MalwareRepository](https://github-readme-stats.vercel.app/api/pin/?username=jimmy-blue&repo=malwarerepository&theme=react)
-![Articuno](https://github-readme-stats.vercel.app/api/pin/?username=jimmy-blue&repo=articuno&theme=react)
 
 
