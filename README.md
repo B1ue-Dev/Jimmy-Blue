@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning `Python and HTML`
 - 👯 I’m looking to collaborate with Matteo, a.k.a [matteodev8](https://github.com/matteodev8)
-- 📫 How to reach me: DM me on Discord at: [JimmyBlue#4773](https://discord.com/channels/738937306224001157)
+- 📫 How to reach me: DM me on Discord at: [bluedev#0442](https://discord.com/channels/774668672874446889)
 - ⚡ Fun fact: I'm just a really boring guy. Yeah, that's all about me. Also, I'm a Pokemon enjoyer, so enjoj
 
 # What I like:
