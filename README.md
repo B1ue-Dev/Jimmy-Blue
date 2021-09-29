@@ -9,8 +9,6 @@
 - 👯 Collaborate with Matteo, a.k.a [matteodev8](https://github.com/matteodev8).
 - 💤 Lazy and easy to get bored.
 
-# What I like:
-- Playing with malware.
 
 ![Blue's github stats](https://github-readme-stats.vercel.app/api?username=jimmy-blue&theme=react&show_icons=true)\
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimmy-Blue&theme=react)
