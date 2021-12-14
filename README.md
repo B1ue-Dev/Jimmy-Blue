@@ -30,7 +30,8 @@
   <img src="img/vmware.svg" alt="VMware" style="vertical-align:top margin:6px 4px"></a>
 
 # Hardware:
-- Laptop: Dell Vostro 5470 (2014) - Windows 11 Pro (22000.348) & Arch Linux (5.15.7.zen1-1)
+- Laptop: Dell Vostro 5470 (2014)
+- OS: Windows 11 Pro (22000.348) & Arch Linux (5.15.7.zen1-1)
 - CPU: Intel(R) Core i3-4010U @ 1.70GHz
 - RAM: 4GB Hynix SODIMM DDR3L 1600Mhz
 - Graphics: Intel(R) HD Graphics 4400 (2GB)
