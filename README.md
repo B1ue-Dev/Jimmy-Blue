@@ -6,7 +6,6 @@
 
 - 🔭 Working on nothing.
 - 🌱 Learning `Python and HTML`.
-- 👯 Collaborate with Matteo, a.k.a [matteodev8](https://github.com/matteodev8).
 - 💤 Lazy and easy to get bored.
 
 
