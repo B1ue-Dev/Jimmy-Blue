@@ -4,7 +4,7 @@
 - 🔒 Security topic is my favorite.
 - 🌐 Website: [blue.is-a.dev](https://blue.is-a.dev)
 
-# Language that I know:
+# Languages that I know:
 <!-- Python -->
 <a href="https://python.org">
   <img src="img/python.svg" alt="Python" style="vertical-align:top margin:6px 4px"></a>
