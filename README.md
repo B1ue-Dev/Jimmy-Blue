@@ -31,7 +31,7 @@
 
 # Hardware:
 - Laptop: Dell Vostro 5470 (2013)
-- OS: Windows 11 Pro (22000.376) & Arch Linux (5.15.11-zen1-1-zen)
+- OS: Windows 11 Pro for Workstation (22000.376) & Arch Linux (5.15.11-zen1-1-zen)
 - CPU: Intel(R) Core i3-4010U @ 1.70GHz
 - RAM: 4GB Hynix SODIMM DDR3L 1600Mhz
 - Graphics: Intel(R) HD Graphics 4400 (2GB)
