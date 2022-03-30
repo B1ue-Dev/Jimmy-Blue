@@ -1,4 +1,4 @@
-# Hello there. This is Blue. [![wakatime](https://wakatime.com/badge/user/4a61584b-76a5-4b28-9ec2-4ebad12be49f.svg)](https://wakatime.com/@4a61584b-76a5-4b28-9ec2-4ebad12be49f)
+# Hello there. This is Blue. [![wakatime](https://wakatime.com/badge/user/4a61584b-76a5-4b28-9ec2-4ebad12be49f.svg?style=flat)](https://wakatime.com/@4a61584b-76a5-4b28-9ec2-4ebad12be49f)
 - 🔭 Working on nothing.
 - 💤 Lazy and easy to get bored.
 - 🔒 Security topic is my favorite.
