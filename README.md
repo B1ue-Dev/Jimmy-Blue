@@ -1,4 +1,4 @@
-# Hello there. This is Blue.
+# Hello there. This is Blue. [![wakatime](https://wakatime.com/badge/user/4a61584b-76a5-4b28-9ec2-4ebad12be49f.svg)](https://wakatime.com/@4a61584b-76a5-4b28-9ec2-4ebad12be49f)
 - 🔭 Working on nothing.
 - 💤 Lazy and easy to get bored.
 - 🔒 Security topic is my favorite.
@@ -31,12 +31,14 @@
 
 # Hardware:
 - Laptop: Dell Vostro 5470 (2013)
-- OS: Windows 11 Pro for Workstation (22000.588) & Arch Linux 5.16.15-zen1-1-zen
+- OS: Windows 11 Pro for Workstation (22581.100) & Arch Linux 5.16.15-zen1-1-zen
 - CPU: Intel(R) Core i3-4010U @ 1.70GHz
 - RAM: 4GB Hynix SODIMM DDR3L 1600Mhz
 - Graphics: Intel(R) HD Graphics 4400 (2GB)
 - Phone: iPhone 6S 16GB (2016)
 
 # Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jimmy-blue&theme=react&show_icons=true)\
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimmy-Blue&theme=react)
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jimmy-blue&theme=github_dark)
+![GitHub Summarize](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jimmy-blue&theme=github_dark)
+![Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jimmy-blue&theme=github_dark)
+
