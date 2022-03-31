@@ -4,13 +4,19 @@
 - 🔒 Security topic is my favorite.
 - 🌐 Website: [blue.is-a.dev](https://blue.is-a.dev)
 
-# Languages that I know:
+# Languages:
 <!-- Python -->
 <a href="https://python.org">
-  <img src="img/python.svg" alt="Python" style="vertical-align:top margin:6px 4px"></a>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=9cf&color=1c2024" alt="Python" style="vertical-align:top margin:12px 10px"></a>
 <!-- HTML -->
 <a href="https://html.spec.whatwg.org/">
-  <img src="img/html.svg" alt="HTML" style="vertical-align:top margin:6px 4px"></a>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&color=1c2024" alt="HTML" style="vertical-align:top margin:12px 10px"></a>
+<!-- C++ -->
+<a href="https://isocpp.org/">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=2596be&color=1c2024" alt="C++" style="vertical-align:top margin:12px 10px"></a>
+<!-- C# -->
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=209c24&color=1c2024" alt="C++" style="vertical-align:top margin:12px 10px"></a>
 
 # Tools/services that I prefer:
 <!-- Azure -->
