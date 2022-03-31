@@ -18,6 +18,11 @@
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=209c24&color=1c2024" alt="C++" style="vertical-align:top margin:12px 10px"></a>
 
+- **Python**: Main language. Mostly used for random stuff and Discord Bot projects.
+- **HTML**: For my website.
+- **C++**: Ongoing learning language.
+- **C#**: A way for me to understand the WPF application form.
+
 # Tools/services that I prefer:
 <!-- Azure -->
 <a href="https://azure.microsoft.com/en-us/">
@@ -36,12 +41,12 @@
   <img src="img/vmware.svg" alt="VMware" style="vertical-align:top margin:6px 4px"></a>
 
 # Hardware:
-- Laptop: Dell Vostro 5470 (2013)
-- OS: Windows 11 Pro for Workstation (22581.100) & Arch Linux 5.16.15-zen1-1-zen
-- CPU: Intel(R) Core i3-4010U @ 1.70GHz
-- RAM: 4GB Hynix SODIMM DDR3L 1600Mhz
-- Graphics: Intel(R) HD Graphics 4400 (2GB)
-- Phone: iPhone 6S 16GB (2016)
+- **Laptop**: Dell Vostro 5470 (2013)
+- **OS**: Windows 11 Pro for Workstation (22581.100) & Arch Linux 5.16.15-zen1-1-zen
+- **CPU**: Intel(R) Core i3-4010U @ 1.70GHz
+- **RAM**: 4GB Hynix SODIMM DDR3L 1600Mhz
+- **Graphics**: Intel(R) HD Graphics 4400 (2GB)
+- **Phone**: iPhone 6S 16GB (2016)
 
 # Stats:
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jimmy-blue&theme=github_dark)
