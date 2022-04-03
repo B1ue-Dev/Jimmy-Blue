@@ -83,6 +83,7 @@
 <details>
 <summary>Hardware:</summary>
 <br>
+
 - **Laptop**: Dell Vostro 5470 (2013)
 - **OS**: Windows 11 Pro for Workstation (22581.100) & Arch Linux 5.16.15-zen1-1-zen
 - **CPU**: Intel(R) Core i3-4010U @ 1.70GHz
