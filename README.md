@@ -4,9 +4,13 @@
 - 🔒 Security topic is my favorite.
 - 🌐 Website: [blue.is-a.dev](https://blue.is-a.dev)
 
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jimmy-blue&theme=github_dark)
+![GitHub Summarize](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jimmy-blue&theme=github_dark)
+![Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jimmy-blue&theme=github_dark)
+
 # Overall about me:
 <details>
-<summary>Languages:</summary>
+<summary>Languages</summary>
 <br>
 <!-- Python -->
 <a href="https://python.org">
@@ -28,7 +32,7 @@
 </details>
 
 <details>
-<summary>Tools/Services:</summary>
+<summary>Tools/Services</summary>
 <br>
 <!-- Azure -->
 <a href="https://azure.microsoft.com/en-us/">
@@ -63,7 +67,7 @@
 
 
 <details>
-<summary>Platform:</summary>
+<summary>Platform</summary>
 <br>
 <!-- Windows -->
 <a href="https://www.microsoft.com/en-us/windows/">
@@ -81,8 +85,10 @@
 </details>
 
 <details>
-<summary>Hardware:</summary>
+<summary>Hardware</summary>
 <br>
+
+![Dell Vostro 5470](https://raw.githubusercontent.com/Jimmy-Blue/Jimmy-Blue/master/img/Dell-Vostro-5470.png)
 
 - **Laptop**: Dell Vostro 5470 (2013)
 - **OS**: Windows 11 Pro for Workstation (22581.100) & Arch Linux 5.16.15-zen1-1-zen
@@ -91,9 +97,3 @@
 - **Graphics**: Intel(R) HD Graphics 4400 (2GB)
 - **Phone**: iPhone 6S 16GB (2016)
 </details>
-
-# Stats:
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jimmy-blue&theme=github_dark)
-![GitHub Summarize](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jimmy-blue&theme=github_dark)
-![Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jimmy-blue&theme=github_dark)
-
