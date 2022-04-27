@@ -1,8 +1,8 @@
 # Hello there. This is Blue. [![wakatime](https://wakatime.com/badge/user/4a61584b-76a5-4b28-9ec2-4ebad12be49f.svg?style=flat)](https://wakatime.com/@4a61584b-76a5-4b28-9ec2-4ebad12be49f)
-- 🔭 Working on nothing.
-- 💤 Lazy and easy to get bored.
-- 🔒 Security topic is my favorite.
-- 🌐 Website: [blue.is-a.dev](https://blue.is-a.dev)
+- Lead developer of [Articuno bot](https://github.com/Articuno-org/Articuno).
+- Contributor at [interactions.py](https://github.com/interactions-py/library).
+- Cyber Security Enthusiast.
+- Site: [blue.is-a.dev](https://blue.is-a.dev)
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jimmy-blue&theme=github_dark)
 ![GitHub Summarize](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jimmy-blue&theme=github_dark)
