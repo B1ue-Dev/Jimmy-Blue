@@ -1,6 +1,6 @@
 # Hello there. This is Blue. [![wakatime](https://wakatime.com/badge/user/4a61584b-76a5-4b28-9ec2-4ebad12be49f.svg?style=flat)](https://wakatime.com/@4a61584b-76a5-4b28-9ec2-4ebad12be49f)
 - Lead developer of [Articuno bot](https://github.com/Articuno-org/Articuno).
-- Contributor at [interactions.py](https://github.com/interactions-py/library).
+- Contributor/Helper at [interactions.py](https://github.com/interactions-py/library).
 - Cyber Security Enthusiast.
 - Site: [blue.is-a.dev](https://blue.is-a.dev)
 
